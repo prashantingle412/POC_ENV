@@ -1,0 +1,6 @@
+environment:
+    host: postgres
+    user: postgres
+    password: postgres
+    dbname: openfaas   
+  
